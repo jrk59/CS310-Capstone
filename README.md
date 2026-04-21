@@ -2,10 +2,25 @@
 
 - Frontend
   - Home Page
+    - Login Button
+    - Sign In Button  
   - Account Page
+    - Displays Personal Information
+    - Allows user to change info
   - Login Page
+  - Create Listing
+    - Allows you to put in photos, tags, campus, price, etc.
   - Search/Listings Page
+    - Displays cards for various listed items
+    - can click on card to bring up individual page
+    - has search/filter features 
   - Individual Listing
+    - Fully displays photos, tags, details, price, campus, etc.
+    - allows to add to cart
   - Shopping Cart
+    - allows you to add and remove items from cart
+    - allows you to checkout cart in full or individual items
   - Checkout
+    - Takes card information and checks out
+    - Has confirmation page (theoretical, wont work in practice)
 - Backend
